@@ -1,0 +1,13 @@
+run sanity checks on markets - how do current indices compare to last year, 5 years ago, 10 years ago, 50 years ago
+	- compare rates of change per market
+
+would like to understand who is considered "credit-worthy" in each country and why
+
+would like to understand how money is created in each country, how stable is their currency? what does it usually fluctuate with, and how can it be stabilized?
+
+given two aggregate units [markets, governments, countries, businesses, industries] in the world, determine the degree to which they are dependent upon each other
+
+
+this is one way that a government analysis is fundamentally different from an investor analysis.
+	- investors can just move their money if a market is crumbling
+	- governemnts have to deal with the people and try to make their lives better
